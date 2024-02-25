@@ -1,5 +1,6 @@
 [package]
 name = "learning-rust"
+authors = ["Sara Herbst <sahe.tiger@gmail.com>"]
 version = "0.1.0"
 edition = "2021"
 
